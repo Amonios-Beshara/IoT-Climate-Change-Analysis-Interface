@@ -31,17 +31,3 @@ The system aims to provide an accurate, real-time, and data-driven solution to u
 
 ### 4. **Web Interface for Visualization**
 - A web-based dashboard (built using **Flask** or similar web framework) displays real-time data in graphical form, providing users with insights into temperature and TDS trends.
-
-## Installation
-
-### Prerequisites
-- **Python 3.x**: Ensure that Python 3.x is installed on your machine.
-- **Required Libraries**:
-  - `pandas` (for data processing)
-  - `matplotlib` (for data visualization)
-  - `Flask` (for web-based visualization)
-  
-To install the required libraries, run:
-
-```bash
-pip install pandas matplotlib flask
